@@ -1,4 +1,4 @@
-### Hello 😜
+### Hello 👋
 
 > Languages i am competent in:
 

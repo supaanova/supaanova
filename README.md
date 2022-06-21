@@ -8,4 +8,4 @@ I am a 16 year old freelance developer interested in low level game hacking as w
 
 > Frameworks i am competent in:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="drawing" width="50"/><img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="drawing" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="drawing" width="50"/><img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="drawing" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="drawing" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="drawing" width="50"/>

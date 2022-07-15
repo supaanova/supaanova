@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a 16 year old freelance developer interested in low level game hacking as well as full-stack web development. I also enjoy infosec as well as creating web applications.
+I am a 16 year old freelance developer interested in low level game hacking as well as full-stack web development. I also enjoy infosec, reverse engineering and tinkering with web applications.
 
 > Languages i am competent in:
 

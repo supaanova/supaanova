@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a 16 year old freelance developer interested in malware analysis, reverse engineering and web development. I also enjoy tinkering with operating systems and low level stuff :p.
+I am a 16 year old freelance developer interested in game hacking, malware analysis, reverse engineering and web development. I also enjoy tinkering with operating systems and low level stuff :p.
 
 > Languages i am competent in:
 
